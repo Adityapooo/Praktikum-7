@@ -1,0 +1,45 @@
+body {
+  background-color: rgba(99, 186, 200, 0.867);
+  margin: 3%;
+}
+.button, .a {
+  color: white;
+  padding: 5px 35px;
+  text-align: center;
+  display: inline-block;
+  font-size: 13px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button {
+  background-color: blueviolet; 
+  color: white; 
+  border: 2px solid blueviolet;
+}
+.button:hover {
+  background-color: white;
+  color: black;
+}
+.form {
+  max-width: 500px;
+  padding: 15px 40px;
+  margin: 0 auto;
+  background-color: #fff;
+  margin-bottom: 25px;
+}
+.kotakform {
+  font-size: 15px;
+  width: 100%;
+  height: auto;
+  padding: 10px;
+}
+.buttonadd {
+  background-color: blueviolet;
+  margin-left: 45%; 
+  color: white; 
+  border: 2px solid blueviolet;
+}
+.buttonadd:hover {
+  background-color: white;
+  color: black;
+}
